@@ -1,5 +1,5 @@
 # Android JAXB
-##Library to generate SimpleXML annotated Java classes  from XML Schema.
+## Library to generate SimpleXML annotated Java classes  from XML Schema.
 
 Use this library to generate SimpleXML annotated Java classes from simple XSD files without inheritance and multiple namespaces.
 
